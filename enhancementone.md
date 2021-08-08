@@ -1,4 +1,4 @@
-## Enhancement One
+## Enhancement One - Software Design and Engineering
 
 The artifact is called medicalApplication, which is a Java application that was created in was created in CS-320: Software Testing, Automation, and Quality Assurance during 20EW5. The purpose of this artifact is to provide a medical record to describe the hospital system.  The application allows the user to input information but also collect information. The type of information includes doctors, patients, allergies, and other medical records. Additionally, employees can access the system and input the own record into the application. 
 
