@@ -26,4 +26,4 @@ All three artifacts chosen for this demonstrates the abilities that I have learn
 - <a href="https://fsrinehart.github.io/frinehart.github.io/codereview.html">Code Review</a>
 - <a href="https://fsrinehart.github.io/frinehart.github.io/enhancementone.html">Enhancement One</a>
 - <a href="https://fsrinehart.github.io/frinehart.github.io/enhancementtwo.html">Enhancement Two</a>
-- <a href="https://fsrinehart.github.io/frinehart.github.io/enhancementthree.html">Enhancement Three</a>
+- <a href="https://fsrinehart.github.io/frinehart.github.io/enhancementthree.html">Enhancement Three</a> 
