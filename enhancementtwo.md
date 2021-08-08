@@ -1,4 +1,5 @@
-## Algorithm and Data Structure
+## Enhancement One 
+### Software Design and Engineering
 
 The artifact is called ZooAuth, which is short for Zoo Authentication. This application was created in IT-145: Foundation in Application Development during [INSERT COURSE DATE]. The purpose of this artifact is to allowed users to gain into the zoo authentication system. This includes the user inputting their credentials to access it.  The application allows zoo employees to input, update, and delete their information in the system.  
 
