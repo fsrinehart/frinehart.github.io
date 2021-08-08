@@ -1,3 +1,4 @@
 # CS-499 ePortfolio
 
 ## Introduction
+I started the computer science program in Southern New Hampshire University in September 2017. Originally, I started computer science at University of Maryland; however, I decided to transfer to Southern New Hampshire University. I felt the computer science program was stronger at SNHU and more up to date on their program. The first course I took in the computer science program was called CS-200: Computer Science Role in Industry. In this course, I learned the fundamentals of computer science while being introduced to Python. While I self-studied C language, Python was really the first language I learned at a university level. Ever since then I fell in love with computer science because of what I can do with it. 
