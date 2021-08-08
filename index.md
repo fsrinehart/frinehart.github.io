@@ -23,3 +23,7 @@ All three artifacts chosen for this demonstrates the abilities that I have learn
 **Porfolio Links**
 
 - <a href="https://fsrinehart.github.io/frinehart.github.io/assessment.html">ePortfolio and Professional Self-Assessment</a>
+- <a href="https://fsrinehart.github.io/frinehart.github.io/assessment.html">ePortfolio and Professional Self-Assessment</a>
+- <a href="https://fsrinehart.github.io/frinehart.github.io/assessment.html">ePortfolio and Professional Self-Assessment</a>
+- <a href="https://fsrinehart.github.io/frinehart.github.io/assessment.html">ePortfolio and Professional Self-Assessment</a>
+- <a href="https://fsrinehart.github.io/frinehart.github.io/assessment.html">ePortfolio and Professional Self-Assessment</a>
