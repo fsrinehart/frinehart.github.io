@@ -5,7 +5,8 @@
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/31iHW9ZeabM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  <div align="left">
- **Porfolio Links**
+ 
+**Porfolio Links**
 
 - <a href="https://fsrinehart.github.io/frinehart.github.io/index.html">ePortfolio and Professional Self-Assessment</a>
 - <a href="https://fsrinehart.github.io/frinehart.github.io/codereview.html">Code Review</a>
