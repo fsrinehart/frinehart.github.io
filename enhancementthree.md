@@ -13,7 +13,7 @@ When modifying the artifact, I learned about the process of database management 
 
 **Repository Link**
 
-[Enhancement Three Repository](https://github.com/fsrinehart/Algorithm-and-Data-Structures)
+[Enhancement Three Repository](https://github.com/fsrinehart/Database)
 
 **Porfolio Links**
  
