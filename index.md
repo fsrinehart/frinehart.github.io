@@ -18,4 +18,6 @@ When showcasing my abilities in database, I chose the artifact called restFUL AP
   
 Each of the artifacts demonstrate my security abilities in computer science. Each of the artifacts had been reviewed and enhanced to ensure security. For instance, there were corrections made in the medicalApplication because the password itself. I added in the comment section about the password to make sure the developer knew about it. The artifact, called ZooAuth was enhanced to where the user had at least three times to access the system. If not, then the user would be forced out of the application. For restFUL API, I ensured that there was a password on there that will prevent unauthorize users from gaining access to it. 
 
+** Porfolio Links
+
 <a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
